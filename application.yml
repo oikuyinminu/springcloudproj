@@ -1,2 +1,4 @@
 application:
     message: Configured by Azure Spring Cloud
+
+spring.jpa.hibernate.ddl-auto=create-drop
